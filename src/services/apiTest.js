@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://irwz7z34wc.execute-api.eu-north-1.amazonaws.com/dev';
+const API_BASE_URL = 'https://api.example.com'; // Replace with your actual API base URL
 
 // to test the SubmitLoan endpoint
 export const testAWSConnection = async () => {
